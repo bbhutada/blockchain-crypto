@@ -3,7 +3,7 @@ Blockchain &amp; Cryptocurrency using Javascript/Node.js
 
 Blockchain is a special - distributed and decentralized database ( financial ledger ) which stores data like transactions and that is publicly shared across all the nodes in its network.
 
-I have developed a minimal feature to implement distributed and decentralized blockchain, where miners can add blocks of transactions, validate the blockchain and synchronize the chain over the network.
+I have developed feature to implement distributed and decentralized blockchain technology, where miners can add blocks of transactions, validate the blockchain and synchronize the chain over the network.
 - Features:
   1. Used Javascript object-oriented programming style ( ES5-ES6).
   2. Hosted on http server using Express.js runing on Node.js. 
